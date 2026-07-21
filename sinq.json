@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0-rc.11",
+    "architecture": {
+        "arm64": {
+            "url": "https://github.com/Veitangie/sinq/releases/download/v1.0.0-rc.11/sinq-1.0.0-rc.11-windows-arm64.zip",
+            "bin": [
+                "sinq.exe"
+            ],
+            "hash": "2083d7c0c8f8c7c2ff0cf2f60e45544afb80ac6098dc8368353ac557b8b73dc2"
+        }
+    },
+    "homepage": "https://github.com/Veitangie/sinq",
+    "license": "gpl3Only",
+    "description": "A concurrent HTTP functional and integration testing tool."
+}
