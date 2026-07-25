@@ -1,15 +1,15 @@
 {
-    "version": "1.0.0-rc.12",
+    "version": "1.0.0-rc.13",
     "architecture": {
         "arm64": {
-            "url": "https://github.com/Veitangie/sinq/releases/download/v1.0.0-rc.12/sinq-1.0.0-rc.12-windows-arm64.zip",
+            "url": "https://github.com/Veitangie/sinq/releases/download/v1.0.0-rc.13/sinq-1.0.0-rc.13-windows-arm64.zip",
             "bin": [
                 "sinq.exe"
             ],
-            "hash": "7af3f77708af67ed1c53412225c6bbafb8e69e9afb8764e3c0ccbe16d18994af"
+            "hash": "c665220dd20687b005eb95faf665ce3df44cd6c1ba4b1df1deb58894d8685504"
         }
     },
     "homepage": "https://github.com/Veitangie/sinq",
-    "license": "gpl3Only",
+    "license": "GPL-3.0-only",
     "description": "A concurrent HTTP functional and integration testing tool."
 }
