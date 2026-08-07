@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0-rc.21",
+    "version": "1.0.0-rc.22",
     "architecture": {
         "arm64": {
-            "url": "https://github.com/Veitangie/sinq/releases/download/v1.0.0-rc.21/sinq-1.0.0-rc.21-windows-arm64.zip",
+            "url": "https://github.com/Veitangie/sinq/releases/download/v1.0.0-rc.22/sinq-1.0.0-rc.22-windows-arm64.zip",
             "bin": [
                 "sinq.exe"
             ],
-            "hash": "70b73928939a97d954e66f6141edd250474289a02f6e249500c28367f0674655"
+            "hash": "348388beaa949857f8d9b754012cdb61acf06fef9da459d07ff8bb52bef0b53b"
         }
     },
     "homepage": "https://github.com/Veitangie/sinq",
